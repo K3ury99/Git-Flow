@@ -22,3 +22,7 @@
    ```bash
   git commit -am 'Add new feature'
 2. **Push to the branch (git push origin feature-branch)**
+3. **Create a new Pull Request**
+
+## 📔 License
+This project is licensed under the MIT License. See the LICENSE file for details.
