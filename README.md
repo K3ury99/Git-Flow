@@ -2,6 +2,16 @@
 > [!NOTE]
 > This is a project designed to demonstrate the proper functioning of the Git Flow workflow.
 
+<!-- En resumen, solo se sube la imagen y se toma el URL para editarlo, y se utiliza display flex para agregarlas una al lado de la otra ajustando el width -->
+<div style="display: flex;">
+ <img src="https://github.com/K3ury99/Pagina-de-Ana/assets/128008789/d380d346-6803-4555-a8f6-3a918263bb87" width="100%"></img>
+</div>
+
+> [!IMPORTANT]
+> This page is fully functional in all its versions or tags. The necessary tests were carried out, and the latest version has the best presentation for all audiences. Thank you for checking out this project.
+> **Keury Ramirez**
+> **20231101**
+
 ## 👾 Getting Started
 1. **Clone the repository:**
    ```bash
