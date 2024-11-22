@@ -1,4 +1,7 @@
 # 🚀 Git-Flow
+> [!NOTE]
+> This is a project designed to demonstrate the proper functioning of the Git Flow workflow.
+
 ## 👾 Getting Started
 1. **Clone the repository:**
    ```bash
