@@ -2,10 +2,10 @@
 ## 👾 Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/K3ury99/XO-Git-Flow-.git
+   git clone https://github.com/K3ury99/XO-Git-Flow
 2. **Navigate to the project directory:**
    ```bash
-   cd KortexMVCCrud 
+   cd XO-Git-Flow 
 2. **Navigate to the project directory:**
 3. **Open in Visual Studio:** Open the solution file KortexCrud.sln and build the project.
 4. **Run the application:** Press F5 to start the application.
